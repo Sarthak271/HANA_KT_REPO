@@ -1,0 +1,4 @@
+column table "sales"(
+    "ID" INTEGER,
+    "NAME" NVARCHAR(50)
+)
