@@ -1,0 +1,8 @@
+{
+  "CV_EMPLOYEE": {
+    "target": {
+      "object": "CV_EMPLOYEE",
+      "schema": "HANA_TRNG_2_1"
+    }
+  }
+}
