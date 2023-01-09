@@ -1,5 +1,7 @@
 column table "sales"(
     "ID" INTEGER,
     "NAME" NVARCHAR(50),
-    "surname" nvarchar(50)
+    "surname" nvarchar(50),
+    "Salary" nvarchar(100)
+    
 )
